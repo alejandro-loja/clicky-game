@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png"
+    },
+    {
+        "id": 2,
+        "name": "Cloud",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Cloud_Strife.png"
+    },
+    {
+        "id": 3,
+        "name": "DK",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png"
+    },
+    {
+        "id": 4,
+        "name": "Link",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/Link_Super_Smash_Bros_Ultimate.png"
+    },
+    {
+        "id": 5,
+        "name": "Samus",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Metroidprime3_1.png"
+    },
+    {
+        "id": 6,
+        "name": "Yoshi",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/YoshiMarioParty10.png"
+    },
+    {
+        "id": 7,
+        "name": "Kirby",
+        "image": "https://upload.wikimedia.org/wikipedia/en/archive/5/5c/20190118195106%21Kirby.png"
+    },
+    {
+        "id": 8,
+        "name": "Fox",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/Fox_Mccloud.png"
+    },
+    {
+        "id": 9,
+        "name": "Pikachu",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png"
+    },
+    {
+        "id": 10,
+        "name": "Snake",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Solid_Snake.png"
+    },
+    {
+        "id": 11,
+        "name": "Mega Man",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Mega_Man_%28Mega_Man_9%29.png"
+    },
+    {
+        "id": 12,
+        "name": "Captain Falcon",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Captain_Falcon_character_portrait.png"
+    }
+]
