@@ -46,7 +46,15 @@ class App extends Component {
       // already array so will reset count and add value to top score
       console.log("******* Clicked Already *****")
       this.shuffleArray(this.state.characters);
-      this.setState({ characters, idsClickedLog: [], topScore: idsClickedLog.length, currentScore: 0 });
+      // newTopScore will update the score if the current score is larger
+      var newTopScore;
+      if(idsClickedLog.length > this.state.topScore){
+        newTopScore = idsClickedLog.length;
+      } else {
+        newTopScore = this.state.topScore;
+      }
+      // new state: shuffles characters, clears log, possible new topScore, resets currentScore
+      this.setState({ characters, idsClickedLog: [], topScore: newTopScore, currentScore: 0 });
       idsClickedLog = []
       // console.log(idsClickedLog);
 
